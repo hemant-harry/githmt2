@@ -1,1 +1,2 @@
 another file created in the githmt2 repository
+upated second line in the hello.txt file
